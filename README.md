@@ -1,3 +1,3 @@
 # Simple-Calculator
 
-Calculate using following link: http://mh-litu.github.io/Simple-Calculator
+Calculate using following link: http://litu173.github.io/Simple-Calculator
